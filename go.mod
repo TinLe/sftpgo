@@ -25,9 +25,9 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.4.0
 	go.etcd.io/bbolt v1.3.3
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
-	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
-	golang.org/x/sys v0.0.0-20191010194322-b09406accb47
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
